@@ -1,6 +1,4 @@
-안녕하세요!
-
-## ❇️ 김형진 / Kim-Hyeong-Jin
+## 김형진 / Kim-Hyeong-Jin
 Embedded Systems Firmware Engineer
 
 Contact: rlagudwls5518@naver.com
