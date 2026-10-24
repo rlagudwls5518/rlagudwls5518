@@ -37,8 +37,8 @@ Contact: rlagudwls5518@naver.com
 
 | Project | Stack | Description |
 |---|---|---|
-| [M4_miniProject](https://github.com/rlagudwls5518/M4_miniProject) | STM32 | STM32-M4 모터 구동 미니 프로젝트 |
-| [Qt-miniProject](https://github.com/rlagudwls5518/Qt-miniProject) | STM32, Qt | 주차장 관제 시스템 |
-| [jojimara](https://github.com/rlagudwls5518/jojimara) | STM32, UART | 차량 졸음운전 방지 시스템 |
-| [Fan_Linux_Driver](https://github.com/rlagudwls5518/Fan_Linux_Driver) | STM32, LinuxDriver | 커널 리눅스 드라이버 프로젝트 |
+| [Fan_Linux_Driver](https://github.com/rlagudwls5518/Fan_Linux_Driver) | STM32, LinuxDriver | 스마트 선풍기 디바이스 드라이버 애플리케이션 |
+| [Qt-miniProject](https://github.com/rlagudwls5518/Qt-miniProject) | STM32, Qt | 실시간 IoT 기반 스마트 주차 관제 시스템 |
+| [jojimara](https://github.com/rlagudwls5518/jojimara) | STM32, UART | AI 기반 얼굴인식 졸음운전 자동차 모니터링 시스템 |
+| [M4_miniProject](https://github.com/rlagudwls5518/M4_miniProject) | STM32 | STM32-M4 양방향 DC 모터 제어 시스템 |
 | [AVR_CAR](https://github.com/rlagudwls5518/UAAD-Ultrasonic-AVR-Auto-Driver) | ATMEGA128A | AVR기반 초음파 센서 기반 자율주행 RC카 |
