@@ -29,8 +29,9 @@ Contact: rlagudwls5518@naver.com
 
 | Repository | Description |
 |---|---|
-| [verilog study](https://github.com/rlagudwls5518/FPGA_verilog) | 디지털 회로 설계 및 Verilog 학습 |
+| [verilog Lab](https://github.com/rlagudwls5518/FPGA_verilog) | 디지털 회로 설계 및 Verilog 학습 |
 | [python_M4_C-Lab_study](https://github.com/rlagudwls5518/Python_M4_C-Lab) | STM32 실습 및 C 학습 |
+| [avr_firmware-Lab](https://github.com/rlagudwls5518/C_firmware) | ATMEGA128A 실습 및 C학습 | 
 
 ---
 
@@ -42,4 +43,4 @@ Contact: rlagudwls5518@naver.com
 | [Qt-miniProject](https://github.com/rlagudwls5518/Qt-miniProject) | STM32, Qt | 주차장 관제 시스템 |
 | [jojimara](https://github.com/rlagudwls5518/jojimara) | STM32, UART | 차량 졸음운전 방지 시스템 |
 | [Fan_Linux_Driver](https://github.com/rlagudwls5518/Fan_Linux_Driver) | STM32, LinuxDriver | 커널 리눅스 드라이버 프로젝트 |
-| [AVR_CAR](https://github.com/rlagudwls5518/UAAD-Ultrasonic-AVR-Auto-Driver) | ATMEGA128A | AVR기반 초음차 츶겅 자율주행 자동차 |
+| [AVR_CAR](https://github.com/rlagudwls5518/UAAD-Ultrasonic-AVR-Auto-Driver) | ATMEGA128A | AVR기반 초음파 센서 기반 자율주행 RC카 |
